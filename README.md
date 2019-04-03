@@ -33,5 +33,7 @@ Help:
 <OUTPUT FILE> Filename or path to write output
 ```
 Note:
+
 All input from files must only contain letters of the alphabet
+
 (i.e. No digits, special characters, punction, or whitespaces allowed!)
