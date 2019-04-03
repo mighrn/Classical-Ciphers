@@ -1,5 +1,5 @@
 # Classical-Ciphers
-## Implementing Caesar, Transposition, Railfence, Vigenere, and Playfair Ciphers
+## Implementing [Caesar](Caesar.hh), [Transposition](RowTransposition.hh), [Railfence](Railfence.hh), [Vigenere](Vigenere.hh), and [Playfair](Playfair.hh) Ciphers
 
 ### Miguel Hernandez
 #### mig220@csu.fullerton.edu
@@ -32,3 +32,6 @@ Help:
 	
 <OUTPUT FILE> Filename or path to write output
 ```
+Note:
+All input from files must only contain letters of the alphabet
+(i.e. No digits, special characters, punction, or whitespaces allowed!)
