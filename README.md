@@ -1,8 +1,8 @@
 # Classical-Ciphers
-##Implementing Caesar, Transposition, Railfence, Vigenere, and Playfair Ciphers
+## Implementing Caesar, Transposition, Railfence, Vigenere, and Playfair Ciphers
 
-###Miguel Hernandez
-####mig220@csu.fullerton.edu
+### Miguel Hernandez
+#### mig220@csu.fullerton.edu
 
 Written in C++
 
